@@ -1,0 +1,10 @@
+database:
+  host: 127.0.0.1
+  port: 5000
+  user: myuser
+  password: mypassword
+  name: mydatabase
+
+app:
+  debug: true
+  secret_key: '987654321'
